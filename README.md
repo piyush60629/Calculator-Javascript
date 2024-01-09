@@ -44,8 +44,8 @@ If you want to contribute or modify the project, follow these steps:
 
 Technologies Used
 
-1) HTML
+- HTML
 
-2) Bootstrap 5
+- Bootstrap 5
 
-3) JavaScript
+- JavaScript
