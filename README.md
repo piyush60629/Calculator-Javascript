@@ -43,6 +43,9 @@ If you want to contribute or modify the project, follow these steps:
 4) Commit and push your changes.
 
 Technologies Used
-HTML
-Bootstrap 5
-JavaScript
+
+1) HTML
+
+2) Bootstrap 5
+
+3) JavaScript
