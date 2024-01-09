@@ -21,10 +21,6 @@ This web-based calculator allows users to perform basic arithmetic operations su
 4. Click on the respective buttons (+, -, *, /) to perform the desired operation.
 5. The result will be displayed below the buttons in the "Result is" section.
 
-## Preview
-
-![Calculator Preview](link-to-screenshot-or-gif)
-
 ## Installation
 
 No installation is required for this calculator. Simply open the provided link in your web browser.
